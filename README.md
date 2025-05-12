@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer, a parent of tw
 ## 🌟 What I’m Working On
 
 - **SCRUM Planning Poker**: A real-time collaborative tool for agile teams to estimate user stories. "Vibe Coding" pet project to improve my Prompt Engineering skills.
+- **Discord Bots**: Real-time discord bots including SparkyBot for my local Pokemon GO community.
 - **Homelab Projects**: Automating tasks, hosting services, and experimenting with new tools.
 - **AI Exploration**: Learning and building small projects with AI/ML technologies.
 
